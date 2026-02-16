@@ -1,1 +1,1 @@
-# verbose-invention
+Repository for git setup, Andrew Nadar
